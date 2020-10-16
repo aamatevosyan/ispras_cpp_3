@@ -1,4 +1,4 @@
-# Practice with arrays
+# Practice with unbeatable stack
 Educational project of implementation of Safe Stack class
 
 ## Usage
