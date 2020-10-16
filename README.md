@@ -22,8 +22,8 @@ First we need to check out the git repo:
 ❯ cd ~/workspace
 ❯ git clone \
     https://github.com/aamatevosyan/ispras_cpp_3 \
-    ispras_cpp_1
-❯ cd ispras_cpp_1
+    ispras_cpp_3
+❯ cd ispras_cpp_3
 ❯ bash build-and-run
 ```
 
@@ -43,6 +43,12 @@ Now we can build this project, and below we show three separate ways to do so.
 
 ```bash
 ❯ ispras_cpp_3
+``` 
+
+#### Running  Tests
+
+```bash
+❯ tests/test
 ``` 
 
 ### Building in CLion
